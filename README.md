@@ -25,7 +25,7 @@ The zip contains four files:
 1. Download the release package https://github.com/limbo666/NewFolder_RightClick/releases .
 2. Extract the files to a folder of your choice. Inside, you’ll find three files: AutoInstall.bat, NewFolder.bat, and NewFolder.reg.
 3. Copy the `NewFolder.bat` file to the `C:\Windows\` directory.
-4. Merge the Registry Entry: Double-click the NewFolder.reg file to merge it into the Windows registry. This will add the "New Folder" option to the context menu.
+4. Merge the Registry Entry: Double-click the `NewFolder.reg` file to merge it into the Windows registry. This will add the "New Folder" option to the context menu.
  <p>
       <p>
           
