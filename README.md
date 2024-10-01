@@ -1,4 +1,4 @@
-# NewFolder_RightClick
+# NewFolder Right-Click option
 
 **Add a "New Folder" option to the top of right-click context menu when clicking on any empty space in a folder or on the desktop.** <p>
 This new option allows you to create a new folder directly in the clicked location with an automatically assigned unique name (e.g., "New Folder", "New Folder 1", etc.). <p>
