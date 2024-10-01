@@ -13,7 +13,7 @@ The zip contains four files:
 
 
 **Automatic Installation (Recommended)** <p>
-1. Download the release package 
+1. Download the release package https://github.com/limbo666/NewFolder_RightClick/releases .
 2. Extract the files to a folder of your choice. Inside, you’ll find three files: AutoInstall.bat, NewFolder.bat, and NewFolder.reg.
 3. Run the AutoInstall.bat: Right-click on AutoInstall.bat and choose Run as Administrator to ensure proper access to the Windows directory and registry.
     The script will automatically copy the NewFolder.bat to the C:\Windows directory and merge the registry entries from NewFolder.reg to add the context menu option.
@@ -21,7 +21,7 @@ The zip contains four files:
       <p>
           
 **Manual Installation**<p>
-1. Download the release package 
+1. Download the release package https://github.com/limbo666/NewFolder_RightClick/releases .
 2. Extract the files to a folder of your choice. Inside, you’ll find three files: AutoInstall.bat, NewFolder.bat, and NewFolder.reg.
 3. Copy the NewFolder.bat file to the C:\Windows\ directory.
 4. Merge the Registry Entry: Double-click the NewFolder.reg file to merge it into the Windows registry. This will add the "New Folder" option to the context menu.
